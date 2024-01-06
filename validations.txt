@@ -1,0 +1,43 @@
+1) Select Menu Validations
+	- Enter number of selection or string (made it not casesensotive). (DN)
+	- IF the input not in the list --> Invlaid input  (DN)
+	
+2) Create Database Name Validations
+	- if exist --> Error  (DN)
+	- if not exist: create it and check for  (DN)
+		- length  (DN)
+		- No spaces (replace space with _ )  (DN)
+		- start with numbers , No special caharacters (DN)
+		- Reserved Keywords:
+	
+3) if there is no databases --> echo there is no databases
+
+4) at updateTable
+	set name = hadeer
+	where id = 10
+	
+	check if the tableName,desiredColumnName,whereColumnName are exists (DN)
+	
+	check if  tableName,desiredColumnName,whereColumnName have space --> replace with _
+	
+	check if name pk  ----> if value already exist --> error name already exists and cannot be repeated (DN)
+	
+	choose:
+		1) Update Column
+			if column -- > pk ---> error (DN)
+				  -- > not pk -- >update (DN)
+		2) Update Row
+		 
+	
+	
+		
+	
+	
+5) delete from table (DN)
+
+
+
+6) Merge update file to DBMS.
+7) Merge delet file to DBMS.
+8) Merge with nouran
+

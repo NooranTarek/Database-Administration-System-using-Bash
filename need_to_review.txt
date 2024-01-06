@@ -1,0 +1,24 @@
+
+"${actions[@]}"
+
+[[:space:]]
+
+3) ${#string} --> to get the length of string
+
+4) if ! [[ $DB_Name =~ ^[a-zA-Z][a-zA-Z0-9_]*$ ]] --- > =~  not supported within []
+					          --- > ~ syntax error near `~'
+					          
+5) change variable in child and affect the variable in parent has been solved:
+	- use export with the variable to be seen by child process
+	- use "source" keyword when call child script to run in the same shell.
+
+6) return and print on the screen  has been solved ===> use  "return" in parent.
+
+7) how to run the child file in the parent with the relative path.
+   - use enviroment variables 
+   
+8) [ ], [[]] , () . (())
+
+9) ` `, $()  , ' ', " " , { } 
+
+
