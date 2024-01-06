@@ -1,6 +1,6 @@
 # Database-Administration-System-using-Bash
 
-The project is meticulously organized and encompasses crucial elements essential for any data storage system. The main components of the project are as follows:
+***The project is meticulously organized and encompasses crucial elements essential for any data storage system. The main components of the project are as follows:
 
 Database Section:
 
@@ -19,4 +19,4 @@ Drop Table
 Update Table
 
 
-Finally, I would like to express my gratitude to my project partner. This was a collaborative effort, with each team comprising two members, and Hadir and I worked together. We are immensely proud of the outstanding work we accomplished and proud of our collaboration.
+Finally, I would like to express my gratitude to my project partner. This was a collaborative effort, with each team comprising two members, and Hadir and I worked together. We are immensely proud of the outstanding work we accomplished and proud of our collaboration.***
