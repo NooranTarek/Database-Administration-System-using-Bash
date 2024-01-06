@@ -17,3 +17,6 @@ List Tables
 Select From Table
 Drop Table
 Update Table
+
+
+Finally, I would like to express my gratitude to my project partner. This was a collaborative effort, with each team comprising two members, and Hadir and I worked together. We are immensely proud of the outstanding work we accomplished and proud of our collaboration.
